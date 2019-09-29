@@ -3,9 +3,18 @@ layout : center-right
 
 # Look-and-Feel
 logo : assets/images/logo.png
-theme : night
-theme-override : assets/css/PITCHME.css
-highlight : zenburn
+
+theme-background : [ "linear-gradient(100deg, white 90%, #BE5869 10%)" ]
+theme-headline   : [ "Montserrat", "#BE5869", "none" ]
+theme-byline     : [ "Montserrat", "#111111", "none" ]
+theme-text       : [ "Raleway", "#333", "none" ]
+theme-links      : [ "#7FDBFF", "#0074D9" ]
+theme-controls   : [ "#C0C0C0" ]
+theme-code       : [ "Victor Mono Italic" ]
+
+theme-override   : assets/css/PITCHME.css
+
+highlight        : tomorrow
 code-line-numbers : true
 
 # Behavior
