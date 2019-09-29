@@ -5,7 +5,7 @@ layout : center-right
 logo : assets/images/logo.png
 theme : night
 theme-override : assets/css/PITCHME.css
-highlight : ir-black
+highlight : zenburn
 
 # Behavior
 transition : none
