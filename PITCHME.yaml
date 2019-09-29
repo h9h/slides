@@ -6,6 +6,7 @@ logo : assets/images/logo.png
 theme : night
 theme-override : assets/css/PITCHME.css
 highlight : zenburn
+code-line-numbers : true
 
 # Behavior
 transition : none
